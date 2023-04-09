@@ -1,1 +1,3 @@
-# JavaScript-e-HTML-desenvolva-um-jogo-e-pratique-l-gica-de-programa-o
+# JavaScript e HTML pela ALURA
+
+## Aprendi Lógica de programação utilizando o JavaScript como base. =)
